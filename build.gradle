@@ -44,7 +44,7 @@ jib {
 	}
 	to {
 		image = "jeroso/factorial-app"
-		tags = ['latest', '0.0.1']
+		tags = ['latest', '0.0.2']
 	}
 	container() {
 		creationTime = "USE_CURRENT_TIMESTAMP"
